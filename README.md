@@ -64,6 +64,8 @@ Keep implementation in the sibling application's `frontend/` directory. Document
 
 ## Shared decisions
 
+- [Accepted private EC2 monitoring](decisions/0007-private-ec2-monitoring.md)
+
 - [Accepted application versioning](decisions/0003-application-versioning.md)
 
 - [Proposed development deployment](decisions/0002-development-deployment.md)
